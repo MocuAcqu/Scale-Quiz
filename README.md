@@ -2,7 +2,7 @@
 
 給國小六年級學生的「比例尺」互動練習網站。學生用螢幕上的尺量地圖，一步一步算出這張地圖的比例尺，最後畫出圖示比例尺。
 
-**線上版網址：** `https://<你的 GitHub 帳號>.github.io/<repository 名稱>/`
+**線上版網址：** https://mocuacqu.github.io/Scale-Quiz/
 
 ## 這是什麼
 
@@ -61,15 +61,6 @@
 | `index.html` | 網站本體，HTML、CSS、JavaScript 都在這個檔案裡 |
 | `favicon.svg`、`favicon.ico`、`apple-touch-icon.png` | 網站圖示 |
 | `README.md` | 本說明文件 |
-
-## 部署到 GitHub Pages
-
-1. 把上面的檔案上傳到 repository 的根目錄。
-2. 進入 repository 的 **Settings → Pages**。
-3. 在 **Source** 選擇 **Deploy from a branch**，Branch 選 **main**、資料夾選 **/(root)**，按 **Save**。
-4. 等待幾分鐘，頁面上方會出現網站網址。
-
-也可以直接下載 `index.html`，用瀏覽器打開就能離線使用。
 
 ## 技術說明
 
